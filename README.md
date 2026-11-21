@@ -1,10 +1,12 @@
 ## SIGNUP PAGE AUTOMATION PROJECT
 ---
+
 **About the project**
 The project is fully automated signup page testing. Here total 12 test cases are done 5 positive and 7 negative test cases.
 ---
 
 ## Environment Setup
+---
 **Technology and Languages**
 - Python, Selenium, SelectorHub, Mailosaur API, FPDF, VS code
 
